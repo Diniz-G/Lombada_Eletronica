@@ -1,9 +1,9 @@
 -- Projeto Lombada Eletrônica
 -- Prof. Marcos Meira
 -- Autores:	Édio Pedro
---				Fabrício Leitão
---				Gabriel Diniz
---				Matheus Melo
+--		Fabrício Leitão
+--		Gabriel Diniz
+--		Matheus Melo
 
 library ieee;
 use ieee.std_logic_1164.all;
